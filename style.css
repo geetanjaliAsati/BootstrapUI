@@ -35,7 +35,7 @@ body{
   
 }
 .site-content{
-  background-image: url('./images/image2.jpg');
+  background-image: url('image2.jpg');
   background-size:cover;
   background-attachment: fixed;
   
@@ -87,7 +87,7 @@ margin-bottom:5%;
   width: 20rem;
 }
 .section-2 .container-fluid{
-  background-image: url("./images/image3.jpg");
+  background-image: url("image3.jpg");
 	background-attachment: fixed;
 	background-size: cover;
 }
