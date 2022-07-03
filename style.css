@@ -87,7 +87,7 @@ margin-bottom:5%;
   width: 20rem;
 }
 .section-2 .container-fluid{
-  background-image: url("image3.jpg");
+  background-image: url('image3.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 }
