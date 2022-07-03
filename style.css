@@ -4,12 +4,12 @@ body{
   padding:0px;
   margin: 0px;
   font-family:'Lato';
-  overflow: x hidden;;
+  overflow-x: hidden;
 }
 .navbar-brand{
   font-family:'Pacifico';
   font-size:35px;
-  color: lightcoral;;
+  color: lightcoral;
 }
 .nav-link{
   	font-family: 'Roboto Condensed';
